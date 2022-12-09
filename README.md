@@ -29,7 +29,7 @@ I am a FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :computer: Great desire and motivation to gain new knowledge in the field of Programming.
 - :gear: Ability to work in a team.
 - :herb: In my free time, I study the possibilities of web development and read technical articles.
-- :mailbox_with_mail: Write me an email: <SobVitalya@yandex.ru>
+- :mailbox_with_mail: Write me an email: <mercartem@mail.ru>
 
 <h2 align="left" id="skills">:key: &nbsp;Skills & Experiences:</h2>
 

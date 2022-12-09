@@ -107,6 +107,12 @@ I am a FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmT
       </a>
       <br>Git
     </td>
+    <td align="center" width="96">
+      <a href="#skills">
+         <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
      <td align="center" width="96"> 
       <a href="skills" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="Npm" />

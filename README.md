@@ -165,7 +165,7 @@ I am a FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   </tr>
 </table>
 
-<h2 align="left" id="skills">:fire: Codewars:</h2>
+<h2 align="left" id="skills">🏅 Codewars:</h2>
 
 <a href="#title">
 <img src="https://www.codewars.com/users/rsschool_2e0aa5703fdab03b/badges/large"</>

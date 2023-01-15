@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <p align="center"><img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="100"/></p>
   <p id="badges">
-    <a href="https://github.com/mercartem">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <a href="https://mercartem.github.io/new-CV/dist/">
+      <img src="https://img.shields.io/badge/MY%20CV-100000?style=for-the-badge&logo=github&logoColor=white" alt="CV Badge"/>
     </a>
     <a href="https://t.me/roadtowebdev">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>

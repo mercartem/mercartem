@@ -62,6 +62,20 @@ I am a FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmT
       <br>Sass
     </td>
   </tr>
+    <tr>
+    <td align="center" width="96">
+      <a href="#skills">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+    <td align="center" width="96">
+      <a href="#skills">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48"                alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+  </tr>
 </table>
 
 >Linters and Formatters
@@ -146,29 +160,10 @@ I am a FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   </tr>
 </table>
 
->Studied
-
-<table width='100'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#skills">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-    <td align="center" width="96">
-      <a href="#skills">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48"                alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-  </tr>
-</table>
-
 <h2 align="left" id="skills">🏅 Codewars:</h2>
 
 <a href="#title">
-<img src="https://www.codewars.com/users/rsschool_2e0aa5703fdab03b/badges/large"</>
+<img src="https://www.codewars.com/users/mercartem/badges/large"</>
 
 <h2 align="left" id="skills">:fire: My statistics:</h2>
 

@@ -61,8 +61,6 @@ I am a FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmT
       </a>
       <br>Sass
     </td>
-  </tr>
-    <tr>
     <td align="center" width="96">
       <a href="#skills">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
